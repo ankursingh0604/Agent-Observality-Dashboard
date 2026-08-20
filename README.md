@@ -4,7 +4,7 @@ Real-time monitoring UI for multi-agent LangGraph pipelines. Streams live execut
 
 Built to instrument a [https://github.com/ankursingh0604/Research-Paper-Analyzer](#) — a LangGraph pipeline with a Boss Agent orchestrating parallel sub-agents (metadata extraction, paper analysis, summarization, citation extraction, key insights) with LLM-based review gates and automatic retries.
 
-![Dashboard screenshot showing live graph with retry node highlighted](docs/screenshot.png)
+![Dashboard screenshot showing live graph with retry node highlighted](docs/Screenshot.png)
 
 ## What it shows
 
